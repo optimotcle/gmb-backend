@@ -1,4 +1,3 @@
-json
 {
   "version": 2,
   "builds": [
@@ -17,4 +16,5 @@ json
       "dest": "api/index.py"
     }
   ]
+
 }
